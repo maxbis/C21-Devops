@@ -59,4 +59,4 @@ Je hebt een simpele website stap voor stap aangepast zonder dat je misschien wis
 
 ## Bronnen
 
-Groeten van Max
+Weghalen!
