@@ -1,6 +1,6 @@
 ## Eindopdracht Devops
 
-## Uitleg
+## Uitlegje
 
 In de map `website` zit een heel simpele website waar wij wat dingen in gaan aanpassen. De voorbeeldsite bestaat uit de volgende 2 bestanden:
 * website\index.html --> de structuur van de site
